@@ -4,3 +4,4 @@ Contributions:
 Design and Development of Software-Vishal S,
 Database Management-Kalki J,
 Software Testing-Bargav R,
+Just Desktop view of the application is presented.
